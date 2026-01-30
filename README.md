@@ -2,6 +2,10 @@
 
 A responsive, client-side quiz application supporting multiple quiz categories with features like timed sessions, question navigation, progress auto-save, and detailed result review.
 
+## Live Demo
+
+Try the live version here: [https://theharsh999.github.io/Quiz-Website/](https://theharsh999.github.io/Quiz-Website/)
+
 ## Features
 
 - Multiple quiz categories (Web Development, HTML, CSS, JavaScript, React, Java, C/C++, Python)
