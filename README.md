@@ -8,7 +8,7 @@ Try the live demo here: [https://theharsh999.github.io/Quiz-Website/](https://th
 
 ## Features
 
-- Multiple quiz categories (Web Development, HTML, CSS, JavaScript, React, Java, C/C++, Python)
+- Multiple quiz categories (Web Development, HTML, CSS, JavaScript, React, Node, Java, C/C++, Python)
 - 10 questions per quiz with 4 answer options each
 - Real-time stopwatch timer
 - Question palette for direct navigation to any question
