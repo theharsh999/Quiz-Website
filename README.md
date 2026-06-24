@@ -4,7 +4,7 @@ A responsive, client-side quiz application supporting multiple quiz categories w
 
 ## Live Demo
 
-Try the live version here: [https://theharsh999.github.io/Quiz-Website/](https://theharsh999.github.io/Quiz-Website/)
+Try the live demo here: [https://theharsh999.github.io/Quiz-Website/](https://theharsh999.github.io/Quiz-Website/)
 
 ## Features
 
