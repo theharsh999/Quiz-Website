@@ -60,13 +60,6 @@ Quiz-Website/
 
 No build tools, dependencies, or server setup required.
 
-## Screenshots
-
-*Screenshots can be added here.*
-
-- Home page with quiz categories
-- Quiz page with question palette
-- Result page with answer review
 
 ## Notes
 
